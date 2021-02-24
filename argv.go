@@ -53,7 +53,7 @@ func (g *Argv) Parse() *Argv {
 // (4) a value for an option immediately preceding it OR
 // (5) a positional argument.
 //
-// The parsed arguments are stored in g.posg and g.optg.
+// The parsed arguments are stored in g.PosArgs and g.OptArgs.
 func (g *Argv) parse() {
 	lastopt := ""
 	for arg := g.next(); arg != "--"; arg = g.next() {
