@@ -1,4 +1,4 @@
-[![Go Reference](https://pkg.go.dev/badge/pkg.go.dev/github.com/zrhmn/argv.svg)](https://pkg.go.dev/pkg.go.dev/github.com/zrhmn/argv)
+[![Go Reference](https://pkg.go.dev/badge/pkg.go.dev/github.com/zrhmn/argv.svg)](https://pkg.go.dev/github.com/zrhmn/argv)
 [![](https://github.com/zrhmn/argv/workflows/Go/badge.svg)](https://github.com/zrhmn/argv/actions)
 [![Coverage Status](https://coveralls.io/repos/github/zrhmn/argv/badge.svg?branch=master)](https://coveralls.io/github/zrhmn/argv?branch=master)
 
